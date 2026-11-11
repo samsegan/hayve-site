@@ -1,0 +1,657 @@
+[
+ {
+  "id": "see-u-bounce",
+  "title": "See U Bounce",
+  "with": [
+   "Segan"
+  ],
+  "date": "2026-09-23",
+  "label": "Monstercat",
+  "kind": "single",
+  "soundcloud": "https://soundcloud.com/hayvemusic/sets/see-u-bounce",
+  "spotify": "https://open.spotify.com/album/4NJD5iYpn0iPH2qUR9H0sw",
+  "apple": "https://music.apple.com/us/album/see-u-bounce-single/6805189471",
+  "seconds": 222,
+  "src": "cat_see-u-bounce.jpg"
+ },
+ {
+  "id": "redline",
+  "title": "Redline",
+  "with": [
+   "Anaïs",
+   "Laminar",
+   "Skyelle"
+  ],
+  "date": "2026-07-24",
+  "label": "Hospital Records",
+  "kind": "single",
+  "spotify": "https://open.spotify.com/album/4yrg5JRKCzwYkdVv4LI67A",
+  "note": "Forza Horizon 6 soundtrack",
+  "src": "cat_redline.jpg"
+ },
+ {
+  "id": "what-it-feels-like",
+  "title": "What It Feels Like",
+  "with": [],
+  "date": "2026-02-20",
+  "label": "Monstercat",
+  "kind": "single",
+  "soundcloud": "https://soundcloud.com/hayvemusic/sets/what-it-feels-like",
+  "spotify": "https://open.spotify.com/album/74fJ4CYKnPIAXGnHcU71o9",
+  "apple": "https://music.apple.com/us/album/what-it-feels-like-single/1875408525",
+  "seconds": 199,
+  "src": "cat_what-it-feels-like.jpg"
+ },
+ {
+  "id": "nights-on-fire-2024-hayve-remix",
+  "title": "Nights On Fire 2024 (hayve Remix)",
+  "with": [
+   "Virtual Riot"
+  ],
+  "date": "2025-10-17",
+  "label": "Monstercat",
+  "kind": "remix",
+  "soundcloud": "https://soundcloud.com/hayvemusic/sets/nights-on-fire-2024-hayve",
+  "seconds": 200,
+  "note": "Stealing Fire (Remixes)",
+  "src": "cat_nights-on-fire-2024-hayve-remix.jpg"
+ },
+ {
+  "id": "shadow",
+  "title": "Shadow",
+  "with": [
+   "NGHTMRE",
+   "Segan"
+  ],
+  "feat": "Crooked Bangs",
+  "date": "2025-08-27",
+  "label": "Gud Vibrations",
+  "kind": "single",
+  "spotify": "https://open.spotify.com/album/2yzq15HS1ckMXOz6fqJC5m",
+  "apple": "https://music.apple.com/us/album/shadow-feat-crooked-bangs-single/1832734732",
+  "note": "NGHTMRE's album MINDFULL",
+  "src": "cat_shadow.jpg"
+ },
+ {
+  "id": "shanti",
+  "title": "Shanti",
+  "with": [
+   "Laminar"
+  ],
+  "date": "2025-05-16",
+  "label": "Monstercat",
+  "kind": "single",
+  "soundcloud": "https://soundcloud.com/hayvemusic/sets/hayve-laminar-shanti",
+  "spotify": "https://open.spotify.com/album/4No45mKgjb31CUUkZckmBO",
+  "apple": "https://music.apple.com/us/album/shanti-single/1811749384",
+  "seconds": 244,
+  "src": "cat_shanti.jpg"
+ },
+ {
+  "id": "astro-hayve-remix",
+  "title": "ASTRO (hayve Remix)",
+  "with": [
+   "IVOXYGEN",
+   "Slowboy",
+   "zaichkou888"
+  ],
+  "date": "2025-04-18",
+  "label": "Aurorian Records",
+  "kind": "remix",
+  "soundcloud": "https://soundcloud.com/hayvemusic/astro-hayve-remix",
+  "spotify": "https://open.spotify.com/album/3Al8UcN09kxtSyiLv0aYZk",
+  "seconds": 159,
+  "src": "cat_astro-hayve-remix.jpg"
+ },
+ {
+  "id": "oblivion",
+  "title": "Oblivion",
+  "with": [
+   "BEAUZ"
+  ],
+  "feat": "Jantine",
+  "date": "2025-02-20",
+  "label": "Monstercat",
+  "kind": "single",
+  "spotify": "https://open.spotify.com/album/1sZLwBJEGFLtRDHtrS2Xl2",
+  "apple": "https://music.apple.com/us/album/oblivion-feat-jantine-single/1794220923",
+  "src": "cat_oblivion.jpg"
+ },
+ {
+  "id": "99-octane",
+  "title": "99 Octane",
+  "with": [
+   "P Money",
+   "Whiney"
+  ],
+  "date": "2025-01-31",
+  "label": "Monstercat × Hospital Records",
+  "kind": "single",
+  "spotify": "https://open.spotify.com/album/2Nk6wy0nWd7uAsi6X0bVr0",
+  "apple": "https://music.apple.com/us/album/99-octane-single/1781181974",
+  "src": "cat_99-octane.jpg"
+ },
+ {
+  "id": "idgaf",
+  "title": "IDGAF",
+  "with": [
+   "Anaïs"
+  ],
+  "date": "2025-01-29",
+  "label": "Monstercat × Hospital Records",
+  "kind": "single",
+  "spotify": "https://open.spotify.com/album/7HVmjL6BNGQcasnOZxfBio",
+  "apple": "https://music.apple.com/us/album/idgaf-single/1771150148",
+  "src": "cat_idgaf.jpg"
+ },
+ {
+  "id": "what-are-we-proving",
+  "title": "What Are We Proving",
+  "with": [],
+  "feat": "DRIIA",
+  "date": "2025-01-27",
+  "label": "Monstercat × Hospital Records",
+  "kind": "single",
+  "spotify": "https://open.spotify.com/album/7c2Mz03qiwZJuhqTSevtZL",
+  "apple": "https://music.apple.com/us/album/what-are-we-proving-feat-driia-single/1771150325",
+  "src": "cat_what-are-we-proving.jpg"
+ },
+ {
+  "id": "flow-vip",
+  "title": "Flow (VIP)",
+  "with": [],
+  "date": "2024-10-11",
+  "label": "Monstercat",
+  "kind": "single",
+  "soundcloud": "https://soundcloud.com/hayvemusic/sets/flow-vip",
+  "spotify": "https://open.spotify.com/album/2U5naTzOW7wVMr4e5x3Zir",
+  "apple": "https://music.apple.com/us/album/flow-vip-single/1772400833",
+  "seconds": 214,
+  "src": "cat_flow-vip.jpg"
+ },
+ {
+  "id": "movements",
+  "title": "Movements",
+  "with": [
+   "Laminar",
+   "Purple Velvet Curtains"
+  ],
+  "date": "2024-08-12",
+  "label": "Monstercat",
+  "kind": "single",
+  "soundcloud": "https://soundcloud.com/hayvemusic/sets/movements",
+  "spotify": "https://open.spotify.com/album/0upBLCWzxoULIoP6oiMNab",
+  "apple": "https://music.apple.com/us/album/movements-single/1760413768",
+  "seconds": 255,
+  "src": "cat_movements.jpg"
+ },
+ {
+  "id": "pressure",
+  "title": "Pressure",
+  "with": [],
+  "date": "2024-07-12",
+  "label": "Monstercat",
+  "kind": "single",
+  "soundcloud": "https://soundcloud.com/hayvemusic/sets/pressure",
+  "spotify": "https://open.spotify.com/album/1Pa9ilp1EF4CoSJAcd25Ma",
+  "apple": "https://music.apple.com/us/album/pressure-single/1754424791",
+  "seconds": 204,
+  "src": "cat_pressure.jpg"
+ },
+ {
+  "id": "hideaway",
+  "title": "Hideaway",
+  "with": [
+   "ROY KNOX",
+   "Skyelle"
+  ],
+  "date": "2024-04-24",
+  "label": "Monstercat",
+  "kind": "single",
+  "soundcloud": "https://soundcloud.com/hayvemusic/sets/hideaway",
+  "spotify": "https://open.spotify.com/album/59hq4Ta7AkKuhQquOi4JTZ",
+  "apple": "https://music.apple.com/us/album/hideaway-single/1738510617",
+  "seconds": 216,
+  "src": "cat_hideaway.jpg"
+ },
+ {
+  "id": "portal",
+  "title": "Portal",
+  "with": [],
+  "date": "2024-02-12",
+  "label": "Monstercat",
+  "kind": "single",
+  "soundcloud": "https://soundcloud.com/hayvemusic/sets/hayve-portal",
+  "spotify": "https://open.spotify.com/album/0oSIeNRjMe5z6wAJ0AB5xs",
+  "apple": "https://music.apple.com/us/album/portal-single/1726235597",
+  "seconds": 155,
+  "src": "cat_portal.jpg"
+ },
+ {
+  "id": "let-go-hayve-remix",
+  "title": "Let Go (hayve Remix)",
+  "with": [
+   "CHYL",
+   "ZOOTAH"
+  ],
+  "date": "2023-11-09",
+  "label": "",
+  "kind": "remix",
+  "soundcloud": "https://soundcloud.com/hayvemusic/chyl-zootah-let-go-hayve-remix",
+  "seconds": 192,
+  "src": "cat_let-go-hayve-remix.jpg"
+ },
+ {
+  "id": "clique-money-moves",
+  "title": "Clique / Money Moves",
+  "with": [
+   "Typhon"
+  ],
+  "date": "2023-11-01",
+  "label": "Monstercat",
+  "kind": "single",
+  "soundcloud": "https://soundcloud.com/hayvemusic/sets/clique-money-moves",
+  "spotify": "https://open.spotify.com/album/0e6cA2frdBLzNMXHqGRjvX",
+  "apple": "https://music.apple.com/us/album/clique-money-moves-single/1711490599",
+  "seconds": 163,
+  "src": "cat_clique-money-moves.jpg"
+ },
+ {
+  "id": "worlds-collide",
+  "title": "Worlds Collide",
+  "with": [
+   "Laminar",
+   "Skyelle"
+  ],
+  "date": "2023-09-22",
+  "label": "Liquicity Records",
+  "kind": "single",
+  "soundcloud": "https://soundcloud.com/hayvemusic/sets/worlds-collide",
+  "spotify": "https://open.spotify.com/album/7n34QTX5t0Yn87Mz9oHEmS",
+  "seconds": 220,
+  "note": "Galaxy Of Dreams 4",
+  "src": "cat_worlds-collide.jpg"
+ },
+ {
+  "id": "full-speed",
+  "title": "Full Speed",
+  "with": [
+   "Topi"
+  ],
+  "date": "2023-07-31",
+  "label": "Monstercat",
+  "kind": "single",
+  "soundcloud": "https://soundcloud.com/hayvemusic/sets/full-speed-w-topi",
+  "spotify": "https://open.spotify.com/album/6Uy49ZyfFwVoV6sFM9eiHh",
+  "apple": "https://music.apple.com/us/album/full-speed-single/1698004681",
+  "seconds": 174,
+  "src": "cat_full-speed.jpg"
+ },
+ {
+  "id": "deadlock",
+  "title": "Deadlock",
+  "with": [
+   "Bossfight"
+  ],
+  "date": "2023-06-26",
+  "label": "Monstercat",
+  "kind": "single",
+  "soundcloud": "https://soundcloud.com/hayvemusic/sets/bossfight-hayve-deadlock",
+  "spotify": "https://open.spotify.com/album/3vCyRU348Fv0hijMp97iqj",
+  "apple": "https://music.apple.com/us/album/deadlock-single/1691421682",
+  "seconds": 207,
+  "src": "cat_deadlock.jpg"
+ },
+ {
+  "id": "daylight-hayve-dnb-edit",
+  "title": "Daylight (hayve DnB Edit)",
+  "with": [
+   "David Kushner"
+  ],
+  "date": "2023-06-12",
+  "label": "",
+  "kind": "edit",
+  "soundcloud": "https://soundcloud.com/hayvemusic/david-kushner-daylight-hayve-dnb-edit",
+  "seconds": 205,
+  "src": "cat_daylight-hayve-dnb-edit.jpg"
+ },
+ {
+  "id": "everything-you-have-done-hayve-flip",
+  "title": "Everything You Have Done (hayve Flip)",
+  "with": [
+   "Genesi",
+   "Meduza"
+  ],
+  "date": "2023-06-09",
+  "label": "",
+  "kind": "free",
+  "soundcloud": "https://soundcloud.com/hayvemusic/genesi-meduza-everything-you-have-done-hayve-flip-1",
+  "seconds": 203,
+  "src": "cat_everything-you-have-done-hayve-flip.jpg"
+ },
+ {
+  "id": "scream",
+  "title": "Scream",
+  "with": [
+   "Typhon"
+  ],
+  "date": "2023-05-10",
+  "label": "Monstercat",
+  "kind": "single",
+  "soundcloud": "https://soundcloud.com/hayvemusic/sets/hayve-typhon-scream",
+  "spotify": "https://open.spotify.com/album/6JW07jsKeDGok4VWxIFGYb",
+  "apple": "https://music.apple.com/us/album/scream-single/1681900822",
+  "seconds": 227,
+  "src": "cat_scream.jpg"
+ },
+ {
+  "id": "flow",
+  "title": "Flow",
+  "with": [],
+  "date": "2023-04-17",
+  "label": "Monstercat",
+  "kind": "single",
+  "soundcloud": "https://soundcloud.com/hayvemusic/sets/hayve-flow",
+  "apple": "https://music.apple.com/us/album/flow-single/1678167940",
+  "seconds": 204,
+  "src": "cat_flow.jpg"
+ },
+ {
+  "id": "valhalla",
+  "title": "Valhalla",
+  "with": [
+   "F.O.O.L"
+  ],
+  "date": "2023-02-27",
+  "label": "Monstercat",
+  "kind": "single",
+  "soundcloud": "https://soundcloud.com/hayvemusic/sets/f-o-o-l-hayve-valhalla",
+  "apple": "https://music.apple.com/us/album/valhalla-single/1669324094",
+  "seconds": 238,
+  "src": "cat_valhalla.jpg"
+ },
+ {
+  "id": "afraid-of-the-dark-hayve-remix",
+  "title": "Afraid of the Dark (hayve Remix)",
+  "with": [
+   "KUURO"
+  ],
+  "feat": "Sophiya",
+  "date": "2022-12-12",
+  "label": "Monstercat",
+  "kind": "remix",
+  "soundcloud": "https://soundcloud.com/hayvemusic/sets/afraid-of-the-dark-hayve-remix",
+  "seconds": 244,
+  "src": "cat_afraid-of-the-dark-hayve-remix.jpg"
+ },
+ {
+  "id": "bad-habits",
+  "title": "Bad Habits",
+  "with": [
+   "ROY KNOX",
+   "Mike Robert"
+  ],
+  "date": "2022-11-24",
+  "label": "Monstercat",
+  "kind": "single",
+  "soundcloud": "https://soundcloud.com/hayvemusic/sets/roy-knox-hayve-mike-robert-bad",
+  "apple": "https://music.apple.com/us/album/bad-habits-single/1652115064",
+  "seconds": 178,
+  "src": "cat_bad-habits.jpg"
+ },
+ {
+  "id": "double-tap",
+  "title": "Double Tap",
+  "with": [
+   "Going Quantum"
+  ],
+  "date": "2022-10-10",
+  "label": "Monstercat",
+  "kind": "single",
+  "soundcloud": "https://soundcloud.com/hayvemusic/sets/going-quantum-hayve-double-tap",
+  "apple": "https://music.apple.com/us/album/double-tap-single/1644829852",
+  "seconds": 201,
+  "src": "cat_double-tap.jpg"
+ },
+ {
+  "id": "bright-lights",
+  "title": "Bright Lights",
+  "with": [
+   "DNMO",
+   "Akylla"
+  ],
+  "date": "2022-09-23",
+  "label": "",
+  "kind": "single",
+  "soundcloud": "https://soundcloud.com/hayvemusic/sets/bright-lights-with-dnmo-akylla",
+  "seconds": 214,
+  "src": "cat_bright-lights.jpg"
+ },
+ {
+  "id": "drift-away",
+  "title": "Drift Away",
+  "with": [
+   "imallryt"
+  ],
+  "date": "2022-08-08",
+  "label": "Monstercat",
+  "kind": "single",
+  "soundcloud": "https://soundcloud.com/hayvemusic/sets/hayve-imallryt-drift-away",
+  "apple": "https://music.apple.com/us/album/drift-away-single/1633512981",
+  "seconds": 222,
+  "src": "cat_drift-away.jpg"
+ },
+ {
+  "id": "between-the-lines",
+  "title": "Between The Lines",
+  "with": [],
+  "date": "2022-01-31",
+  "label": "Monstercat",
+  "kind": "single",
+  "soundcloud": "https://soundcloud.com/hayvemusic/sets/hayve-between-the-lines",
+  "apple": "https://music.apple.com/us/album/between-the-lines-single/1600641044",
+  "seconds": 276,
+  "src": "cat_between-the-lines.jpg"
+ },
+ {
+  "id": "change",
+  "title": "Change",
+  "with": [
+   "Skyelle"
+  ],
+  "date": "2021-10-07",
+  "label": "Monstercat",
+  "kind": "single",
+  "soundcloud": "https://soundcloud.com/hayvemusic/sets/hayve-skyelle-change",
+  "apple": "https://music.apple.com/us/album/change-single/1585910334",
+  "seconds": 215,
+  "note": "Monstercat × Rocket League",
+  "src": "cat_change.jpg"
+ },
+ {
+  "id": "oh-lord-hayve-remix",
+  "title": "Oh Lord (hayve Remix)",
+  "with": [
+   "Toby Romeo"
+  ],
+  "feat": "Deve",
+  "date": "2021-09-10",
+  "label": "Intercord",
+  "kind": "remix",
+  "soundcloud": "https://soundcloud.com/hayvemusic/sets/toby-romeo-oh-lord-hayve-remix",
+  "seconds": 207,
+  "src": "cat_oh-lord-hayve-remix.jpg"
+ },
+ {
+  "id": "half-alive",
+  "title": "Half Alive",
+  "with": [
+   "imallryt"
+  ],
+  "date": "2021-07-06",
+  "label": "NCS",
+  "kind": "single",
+  "soundcloud": "https://soundcloud.com/hayvemusic/sets/hayve-half-alive-feat-imallryt",
+  "apple": "https://music.apple.com/us/album/half-alive-single/1868777557",
+  "seconds": 166,
+  "src": "cat_half-alive.jpg"
+ },
+ {
+  "id": "collapse",
+  "title": "Collapse",
+  "with": [
+   "KUURO",
+   "imallryt"
+  ],
+  "date": "2021-05-27",
+  "label": "Monstercat",
+  "kind": "single",
+  "soundcloud": "https://soundcloud.com/hayvemusic/sets/kuuro-hayve-collapse-feat",
+  "apple": "https://music.apple.com/us/album/collapse-single/1565266336",
+  "seconds": 171,
+  "src": "cat_collapse.jpg"
+ },
+ {
+  "id": "feel-alive",
+  "title": "Feel Alive",
+  "with": [
+   "More Plastic"
+  ],
+  "date": "2021-05-06",
+  "label": "NCS",
+  "kind": "single",
+  "soundcloud": "https://soundcloud.com/hayvemusic/sets/more-plastic-x-hayve-feel",
+  "apple": "https://music.apple.com/us/album/feel-alive-single/1868779605",
+  "seconds": 182,
+  "src": "cat_feel-alive.jpg"
+ },
+ {
+  "id": "bounce-heavy-right-now",
+  "title": "Bounce / Heavy Right Now",
+  "with": [
+   "imallryt"
+  ],
+  "date": "2021-03-19",
+  "label": "Viper Recordings",
+  "kind": "single",
+  "soundcloud": "https://soundcloud.com/hayvemusic/sets/hayve-bounce",
+  "seconds": 88,
+  "src": "cat_bounce-heavy-right-now.jpg"
+ },
+ {
+  "id": "red-light",
+  "title": "Red Light",
+  "with": [],
+  "date": "2021-02-11",
+  "label": "NCS",
+  "kind": "single",
+  "soundcloud": "https://soundcloud.com/hayvemusic/sets/hayve-red-light",
+  "spotify": "https://open.spotify.com/album/5eVTPgnd3dbjrn9X929gS4",
+  "apple": "https://music.apple.com/us/album/red-light-single/1868771399",
+  "seconds": 178,
+  "src": "cat_red-light.jpg"
+ },
+ {
+  "id": "space-jam",
+  "title": "Space Jam",
+  "with": [],
+  "date": "2020-12-18",
+  "label": "NCS",
+  "kind": "single",
+  "soundcloud": "https://soundcloud.com/hayvemusic/sets/hayve-space-jam",
+  "seconds": 259,
+  "note": "NCS Track and Build 2.0",
+  "src": "cat_space-jam.jpg"
+ },
+ {
+  "id": "give-up-on-you",
+  "title": "Give Up On You",
+  "with": [
+   "ROY KNOX"
+  ],
+  "feat": "imallryt",
+  "date": "2020-11-10",
+  "label": "NCS",
+  "kind": "single",
+  "soundcloud": "https://soundcloud.com/hayvemusic/hayve-x-roy-knox-give-up-on-you-feat-imallryt",
+  "spotify": "https://open.spotify.com/album/081ypVEJHoSICC1RAKphmS",
+  "apple": "https://music.apple.com/us/album/give-up-on-you-feat-imallryt-single/1870273892",
+  "seconds": 155,
+  "src": "cat_give-up-on-you.jpg"
+ },
+ {
+  "id": "murderer",
+  "title": "Murderer",
+  "with": [
+   "Carbin"
+  ],
+  "feat": "Emily Makis",
+  "date": "2020-08-25",
+  "label": "NCS",
+  "kind": "single",
+  "soundcloud": "https://soundcloud.com/hayvemusic/carbin-hayve-murderer-feat-emily-makis",
+  "spotify": "https://open.spotify.com/album/69EJRenLS3nU2mkNs2C4OF",
+  "apple": "https://music.apple.com/us/album/murderer-feat-emily-makis-single/1870704311",
+  "seconds": 202,
+  "src": "cat_murderer.jpg"
+ },
+ {
+  "id": "empire-of-steel-hayve-remix",
+  "title": "Empire of Steel (hayve Remix)",
+  "with": [
+   "Essenger"
+  ],
+  "feat": "Scandroid",
+  "date": "2020-06-08",
+  "label": "",
+  "kind": "free",
+  "soundcloud": "https://soundcloud.com/hayvemusic/essenger-empire-of-steel-feat-scandroid-hayve-remix-1",
+  "seconds": 191,
+  "src": "cat_empire-of-steel-hayve-remix.jpg"
+ },
+ {
+  "id": "how-you-feel",
+  "title": "How You Feel",
+  "with": [
+   "The Arcturians"
+  ],
+  "date": "2020-01-13",
+  "label": "Odio Records",
+  "kind": "single",
+  "soundcloud": "https://soundcloud.com/hayvemusic/sets/how-you-feel-w-the-arcturians",
+  "spotify": "https://open.spotify.com/album/3CTDkb2Ek4HBqH5IB2a8u1",
+  "apple": "https://music.apple.com/us/album/how-you-feel-single/1494382770",
+  "seconds": 180,
+  "src": "cat_how-you-feel.jpg"
+ },
+ {
+  "id": "isolation",
+  "title": "Isolation",
+  "with": [
+   "Protostar"
+  ],
+  "date": "2019-12-02",
+  "label": "Monstercat",
+  "kind": "single",
+  "soundcloud": "https://soundcloud.com/hayvemusic/sets/isolation-w-protostar",
+  "spotify": "https://open.spotify.com/album/6M1aYATORfLdGh2v7oiWkT",
+  "apple": "https://music.apple.com/us/album/isolation-single/1488364217",
+  "seconds": 273,
+  "src": "cat_isolation.jpg"
+ },
+ {
+  "id": "bit-by-bit",
+  "title": "Bit By Bit",
+  "with": [
+   "ARCTURA"
+  ],
+  "date": "2019-11-15",
+  "label": "NCS",
+  "kind": "single",
+  "soundcloud": "https://soundcloud.com/hayvemusic/sets/the-arcturians-hayve-bit-by-1",
+  "spotify": "https://open.spotify.com/album/3TqxuBVlhQSDddq18L0vtS",
+  "apple": "https://music.apple.com/us/album/bit-by-bit-single/1868781551",
+  "seconds": 211,
+  "src": "cat_bit-by-bit.jpg"
+ }
+]
