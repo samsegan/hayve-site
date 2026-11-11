@@ -286,6 +286,8 @@ html:not(.go) .open-foot { display: none; }
 .socials a:hover { color: var(--volt-3); border-color: currentColor; }
 .colophon { margin: 7vh auto 0; max-width: 760px; padding: 0 calc(var(--m) + 90px) 0 var(--m); text-align: center; font: 300 9.5px/1.9 var(--thin); letter-spacing: .14em; color: rgba(236, 234, 227, .8); }
 
+.colophon a { border-bottom: 1px solid currentColor; }
+
 /* ============ player ============ */
 .dock { position: fixed; left: 0; right: 0; bottom: 0; z-index: 105; height: 56px; display: flex; align-items: center; gap: 18px; padding: 0 var(--m); background: var(--ink); border-top: 1px solid rgba(236, 234, 227, .3); font: 400 11px var(--thin); letter-spacing: .2em; text-transform: uppercase; }
 .dock[hidden] { display: none; }

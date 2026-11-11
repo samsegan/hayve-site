@@ -18,6 +18,24 @@ Preview: https://samsegan.github.io/hayve-site/ (GitHub Pages from `main`).
 The page carries `noindex` and a "Preview build, not yet official" line until
 hayve take it over.
 
+## Two versions
+
+- **First version** (this folder's `index.html`): the one described below.
+- **Dark version** (`dark/`, https://samsegan.github.io/hayve-site/dark/):
+  the same sections and wording, much darker, and closer to the BMSG site.
+  No owl drawings: only hayve's own mark, as a solid object (three.js,
+  `dark/mark3d.js`) that stays behind the page. Each section opens with a
+  "hub" screen (the mark seen from a new side, a large serif title and a Dive
+  button), then its cards: steel foil instead of indigo, black glass for the
+  lists, an eclipse (after their Oblivion cover) for the contact screen. It
+  shares `art/`, `img/`, `fonts/` and `js/data.js` with the first version, so
+  a new record or a rebuilt picture shows in both. Wording lives in each
+  version's own `index.html`: change it in both.
+  - Camera places are named in `POSES` at the top of `dark/mark3d.js`; each
+    block of the page picks one with `data-pose`.
+  - `dark/vendor/three.module.min.js` is three.js 0.160 (MIT licence, kept
+    beside it).
+
 ## Colours and type
 
 From hayve's own mark and cover art, not from the two references:
