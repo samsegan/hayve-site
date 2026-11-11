@@ -374,6 +374,11 @@ html:not(.go) .open-foot { display: none; }
   .yr { font-size: 26vw; }
 
   .news { display: block; padding: 8vh 7vw 10vh; }
+  .plus { width: 24px; height: 24px; }
+  .plus:nth-of-type(1) { --x: 86% !important; --y: 2% !important; }
+  .plus:nth-of-type(3) { --x: 3% !important; --y: 46.5% !important; }
+  .plus:nth-of-type(5) { --x: 88% !important; --y: 71% !important; }
+  .plus:nth-of-type(2n) { display: none; }
   .news .tilt-h { margin-left: 8%; }
   .news-block { margin-top: 16vh; }
   .list { font-size: 11px; letter-spacing: .08em; }

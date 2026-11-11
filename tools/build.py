@@ -123,11 +123,7 @@ if args.src:
     # (file, crop, width, black-and-white?, name)
     for src, crop, width, bw, name in (
         ("igc_DbMM5gXDfUR_01.jpg", (0.02, 0.10, 0.92, 0.775), 1100, True, "alley"),        # the two of them, brick alley
-        ("igc_DU_hqGTDZg2_01.jpg", (0.10, 0.12, 0.92, 0.76), 1200, True, "door"),         # in front of the painted door
-        ("igc_DU6N_IbjBHB_01.jpg", (0.08, 0.30, 0.96, 0.96), 1200, True, "night"),        # flash picture under the balcony
         ("igc_DMlN5GXsUMK_01.jpg", (0.14, 0.0, 0.98, 1.0), 1300, True, "tomorrowland"),   # the crowd at Tomorrowland 2025
-        ("igc_DMlN5GXsUMK_03.jpg", (0.05, 0.10, 0.95, 1.0), 1200, True, "booth"),
-        ("igc_DS8S62yjN1z_01.jpg", (0.0, 0.22, 1.0, 0.97), 1100, True, "studio"),
     ):
         im = frac_crop(Image.open(IG / src).convert("RGB"), crop)
         im = fit(im, width)
