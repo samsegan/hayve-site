@@ -545,7 +545,7 @@ window.HAYVE = {
    "art": "art/oh-lord-hayve-remix.jpg",
    "soundcloud": "https://soundcloud.com/hayvemusic/sets/toby-romeo-oh-lord-hayve-remix",
    "seconds": 207,
-   "embed": true
+   "embed": false
   },
   {
    "id": "half-alive",

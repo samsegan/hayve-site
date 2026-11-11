@@ -480,7 +480,8 @@
   "kind": "remix",
   "soundcloud": "https://soundcloud.com/hayvemusic/sets/toby-romeo-oh-lord-hayve-remix",
   "seconds": 207,
-  "src": "cat_oh-lord-hayve-remix.jpg"
+  "src": "cat_oh-lord-hayve-remix.jpg",
+  "embed": false
  },
  {
   "id": "half-alive",
